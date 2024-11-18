@@ -1,0 +1,22 @@
+.home-container {
+    background-image: url('/public/carro.jpeg'); /* Caminho correto a partir da pasta public */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #f5f5dc; /* Cor creme */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.titulo-home {
+    color: #4682b4; /* Azul claro */
+    font-size: 2.5rem; /* Aumenta o tamanho da fonte */
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra leve no texto */
+}
+
