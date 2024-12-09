@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #808080 !important; /* Fundo cinza */
+  }
+  
+  .navbar-brand,
+  .nav-link,
+  .dropdown-item {
+    color: white !important; /* Texto branco */
+  }
+  
+  .nav-link:hover,
+  .dropdown-item:hover {
+    color: #61dafb !important; /* Cor azul clara ao passar o mouse */
+  }
+  
+  .dropdown-menu {
+    background-color: #707070 !important; /* Fundo do dropdown um tom mais escuro */
+  }
+  
+  .dropdown-item {
+    color: white !important; /* Itens do dropdown em branco */
+  }
+  
+  .dropdown-item:hover {
+    background-color: #505050 !important; /* Fundo mais escuro ao passar o mouse */
+  }
+  
